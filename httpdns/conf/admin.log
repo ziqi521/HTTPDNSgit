@@ -1,0 +1,587 @@
+2017/05/04 15:47:43 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 15:47:48 [C] [asm_amd64.s:479] the request url is  /user/register
+2017/05/04 15:47:48 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:error.tpl
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:444
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:408
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:703
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 15:47:49 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 15:54:27 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] the request url is  /user/register
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:error.tpl
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:444
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:408
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:703
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 15:55:53 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] the request url is  /user/register
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:error.tpl
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:444
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:408
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:703
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 15:56:12 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 15:57:46 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 15:57:54 [I] [login.go:80] user resgister success 
+2017/05/04 15:58:44 [I] [login.go:80] user resgister success 
+2017/05/04 15:59:02 [I] [login.go:80] user resgister success 
+2017/05/04 16:00:55 [server.go:2315] [HTTP] http: panic serving [::1]:52694: can't find templatefile in the path:error.tpl
+goroutine 54 [running]:
+net/http.(*conn).serve.func1(0xc05cb07a00)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cb79be0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cc5d490, 0x96093f, 0x9, 0x8d1ec0, 0xc05cc97a40, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cc169a0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cc169a0, 0x95b636, 0x4, 0xc05ccdedd0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cc169a0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cbb1ef0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cb795db, 0x3, 0xc05cbb1ef0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb1ef0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cb79630)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cc168c0, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cc168c0, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cc168c0)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cc168c0, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc05cb7c1a8, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cc168c0, 0xa613, 0x0, 0x0, 0x0, 0xc05cc168c0, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123290, 0xb9ef60, 0xc05cca5d40, 0xc05cbd8a50)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cca5d40, 0xc05cbd8a50)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cb07a00, 0xb9f7e0, 0xc05cb7ae40)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:00:56 [server.go:2315] [HTTP] http: panic serving [::1]:52695: can't find templatefile in the path:error.tpl
+goroutine 14 [running]:
+net/http.(*conn).serve.func1(0xc05cbb5180)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cbbaa20)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd22150, 0x96093f, 0x9, 0x8d1ec0, 0xc05cbb8f30, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cd300e0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cd300e0, 0x95b636, 0x4, 0xc05cd2adf0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cd300e0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cbb8de0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cbba2eb, 0x3, 0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cbba490)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cd30000, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cd30000, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cd30000)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cd30000, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc05cbc4070, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cd30000, 0xa613, 0x0, 0x0, 0x0, 0xc05cd30000, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123290, 0xb9ef60, 0xc05ccd60d0, 0xc05ccd4000)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05ccd60d0, 0xc05ccd4000)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbb5180, 0xb9f7e0, 0xc05cbc2280)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:01:17 [server.go:2315] [HTTP] http: panic serving [::1]:52704: can't find templatefile in the path:error.tpl
+goroutine 24 [running]:
+net/http.(*conn).serve.func1(0xc05cbc8680)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cdcc630)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd23a40, 0x96093f, 0x9, 0x8d1ec0, 0xc05cdaf560, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cd30c40, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cd30c40, 0x95b636, 0x4, 0xc05cd2adf0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cd30c40, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cbb8de0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cbbbefb, 0x3, 0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cdcc0a0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cd30b60, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cd30b60, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cd30b60)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cd30b60, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc05cbc41a0, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cd30b60, 0xa613, 0x0, 0x0, 0x0, 0xc05cd30b60, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123290, 0xb9ef60, 0xc05cdb7450, 0xc05ccd4c30)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cdb7450, 0xc05ccd4c30)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbc8680, 0xb9f7e0, 0xc05cccca00)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:01:17 [server.go:2315] [HTTP] http: panic serving [::1]:52707: can't find templatefile in the path:error.tpl
+goroutine 30 [running]:
+net/http.(*conn).serve.func1(0xc05cbc9880)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cdccdf0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd23e30, 0x96093f, 0x9, 0x8d1ec0, 0xc05cdd2ab0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cd310a0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cd310a0, 0x95b636, 0x4, 0xc05cd2adf0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cd310a0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cbb8de0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cdcc6bb, 0x3, 0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb8de0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cdcc860)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cd30fc0, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cd30fc0, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cd30fc0)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cd30fc0, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc05cbc41f8, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cd30fc0, 0xa613, 0x0, 0x0, 0x0, 0xc05cd30fc0, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123290, 0xb9ef60, 0xc05cdd1930, 0xc05cbd8ff0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cdd1930, 0xc05cbd8ff0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbc9880, 0xb9f7e0, 0xc05cccca40)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:06:23 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 16:06:28 [server.go:2315] [HTTP] http: panic serving [::1]:52862: can't find templatefile in the path:error.tpl
+goroutine 50 [running]:
+net/http.(*conn).serve.func1(0xc05cb11f00)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cd3e840)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd15f10, 0x96093f, 0x9, 0x8d1ec0, 0xc05cd36510, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cc8aee0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cc8aee0, 0x95b636, 0x4, 0xc05cceadd0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cc8aee0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c635cb0, 0xc05cbb0ba0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cd3e0eb, 0x3, 0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cd3e290)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cc8ae00, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cc8ae00, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cc8ae00)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cc8ae00, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc042068230, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cc8ae00, 0xa613, 0x0, 0x0, 0x0, 0xc05cc8ae00, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123970, 0xb9ef60, 0xc05cd21e10, 0xc05cc890e0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cd21e10, 0xc05cc890e0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cb11f00, 0xb9f7e0, 0xc05cb822c0)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:06:28 [server.go:2315] [HTTP] http: panic serving [::1]:52863: can't find templatefile in the path:error.tpl
+goroutine 25 [running]:
+net/http.(*conn).serve.func1(0xc05cbbe100)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cd3efe0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd56310, 0x96093f, 0x9, 0x8d1ec0, 0xc05cd37a70, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cc8b260, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cc8b260, 0x95b636, 0x4, 0xc05ca10df0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cc8b260, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c635cb0, 0xc05cbb0ba0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cd3e89b, 0x3, 0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cd3ea50)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cc8b180, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cc8b180, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cc8b180)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cc8b180, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc042068318, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cc8b180, 0xa613, 0x0, 0x0, 0x0, 0xc05cc8b180, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123970, 0xb9ef60, 0xc05cd5a340, 0xc05cb88a50)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cd5a340, 0xc05cb88a50)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbbe100, 0xb9f7e0, 0xc05cba0fc0)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:06:28 [server.go:2315] [HTTP] http: panic serving [::1]:52864: can't find templatefile in the path:error.tpl
+goroutine 26 [running]:
+net/http.(*conn).serve.func1(0xc05cbbe180)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cd3f790)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd56700, 0x96093f, 0x9, 0x8d1ec0, 0xc05cce0f90, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cc8b5e0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cc8b5e0, 0x95b636, 0x4, 0xc05ca10df0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cc8b5e0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c635cb0, 0xc05cbb0ba0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cd3f05b, 0x3, 0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cd3f200)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cc8b500, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cc8b500, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cc8b500)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cc8b500, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc042068418, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cc8b500, 0xa613, 0x0, 0x0, 0x0, 0xc05cc8b500, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123970, 0xb9ef60, 0xc05cce8820, 0xc05cb88b40)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cce8820, 0xc05cb88b40)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbbe180, 0xb9f7e0, 0xc05cba1040)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:06:28 [server.go:2315] [HTTP] http: panic serving [::1]:52869: can't find templatefile in the path:error.tpl
+goroutine 70 [running]:
+net/http.(*conn).serve.func1(0xc05ccdc980)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adee0, 0xc05cd3ff30)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cd56af0, 0x96093f, 0x9, 0x8d1ec0, 0xc05cdbc4e0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cc8ba40, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cc8ba40, 0x95b636, 0x4, 0xc05ca10df0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cc8ba40, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c635cb0, 0xc05cbb0ba0, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cd3f7fb, 0x3, 0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cbb0ba0)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adee0, 0xc05cd3f9a0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cc8b960, 0x1fb, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cc8b960, 0x95a9b9, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cc8b960)
+	D:/code/gocode/src/httpdns/controllers/login.go:77 +0x247
+reflect.Value.call(0x956680, 0xc05cc8b960, 0xa613, 0x95b636, 0x4, 0x0, 0x0, 0x0, 0xc0420684b8, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956680, 0xc05cc8b960, 0xa613, 0x0, 0x0, 0x0, 0xc05cc8b960, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123970, 0xb9ef60, 0xc05cdb6d00, 0xc05cb88c30)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cdb6d00, 0xc05cb88c30)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05ccdc980, 0xb9f7e0, 0xc05cba1280)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:17:59 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 16:18:05 [server.go:2315] [HTTP] http: panic serving [::1]:53287: can't find templatefile in the path:error.tpl
+goroutine 39 [running]:
+net/http.(*conn).serve.func1(0xc05ccce180)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adf60, 0xc05ce03df0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05ce0d2d0, 0x9609bf, 0x9, 0x8d1f40, 0xc05ce0f5c0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cdb08c0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cdb08c0, 0x95b6b6, 0x4, 0xc05cdcadc0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cdb08c0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cb85b00, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05ce03850, 0x3, 0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adf60, 0xc05ce03840)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cdb07e0, 0x1fb, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cdb07e0, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cdb07e0)
+	D:/code/gocode/src/httpdns/controllers/login.go:79 +0x2c2
+reflect.Value.call(0x956700, 0xc05cdb07e0, 0xa613, 0x95b6b6, 0x4, 0x0, 0x0, 0x0, 0xc0420688f8, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956700, 0xc05cdb07e0, 0xa613, 0x0, 0x0, 0x0, 0xc05cdb07e0, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123ce0, 0xb9ef60, 0xc05ce15ee0, 0xc05cb89680)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05ce15ee0, 0xc05cb89680)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05ccce180, 0xb9f7e0, 0xc05ccbcfc0)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:18:05 [server.go:2315] [HTTP] http: panic serving [::1]:53286: can't find templatefile in the path:error.tpl
+goroutine 38 [running]:
+net/http.(*conn).serve.func1(0xc05ccce100)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adf60, 0xc05cdbc5a0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05ce0d6c0, 0x9609bf, 0x9, 0x8d1f40, 0xc05ce3cae0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cdb0c40, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cdb0c40, 0x95b6b6, 0x4, 0xc05cd56de0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cdb0c40, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cb85b00, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cdbc020, 0x3, 0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adf60, 0xc05cdbc010)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cdb0b60, 0x1fb, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cdb0b60, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cdb0b60)
+	D:/code/gocode/src/httpdns/controllers/login.go:79 +0x2c2
+reflect.Value.call(0x956700, 0xc05cdb0b60, 0xa613, 0x95b6b6, 0x4, 0x0, 0x0, 0x0, 0xc042068950, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956700, 0xc05cdb0b60, 0xa613, 0x0, 0x0, 0x0, 0xc05cdb0b60, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123ce0, 0xb9ef60, 0xc05ce48410, 0xc05cc9e1e0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05ce48410, 0xc05cc9e1e0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05ccce100, 0xb9f7e0, 0xc05cb78f80)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:18:05 [server.go:2315] [HTTP] http: panic serving 127.0.0.1:53285: can't find templatefile in the path:error.tpl
+goroutine 24 [running]:
+net/http.(*conn).serve.func1(0xc05cbea080)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adf60, 0xc05cdbcd60)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05ce0dab0, 0x9609bf, 0x9, 0x8d1f40, 0xc05ce3df80, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cdb0fc0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cdb0fc0, 0x95b6b6, 0x4, 0xc05ca02de0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cdb0fc0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cb85b00, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cdbc7e0, 0x3, 0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adf60, 0xc05cdbc7d0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cdb0ee0, 0x1fb, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cdb0ee0, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cdb0ee0)
+	D:/code/gocode/src/httpdns/controllers/login.go:79 +0x2c2
+reflect.Value.call(0x956700, 0xc05cdb0ee0, 0xa613, 0x95b6b6, 0x4, 0x0, 0x0, 0x0, 0xc0420689a8, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956700, 0xc05cdb0ee0, 0xa613, 0x0, 0x0, 0x0, 0xc05cdb0ee0, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123ce0, 0xb9ef60, 0xc05cdc28f0, 0xc05cc9e0f0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cdc28f0, 0xc05cc9e0f0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05cbea080, 0xb9f7e0, 0xc05cb17fc0)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:18:05 [server.go:2315] [HTTP] http: panic serving 127.0.0.1:53288: can't find templatefile in the path:error.tpl
+goroutine 40 [running]:
+net/http.(*conn).serve.func1(0xc05ccce300)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adf60, 0xc05cdbd500)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05ce0dea0, 0x9609bf, 0x9, 0x8d1f40, 0xc05ce914a0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cdb1340, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cdb1340, 0x95b6b6, 0x4, 0xc05ca02de0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cdb1340, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cb85b00, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cdbcf80, 0x3, 0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adf60, 0xc05cdbcf70)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cdb1260, 0x1fb, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cdb1260, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cdb1260)
+	D:/code/gocode/src/httpdns/controllers/login.go:79 +0x2c2
+reflect.Value.call(0x956700, 0xc05cdb1260, 0xa613, 0x95b6b6, 0x4, 0x0, 0x0, 0x0, 0xc042068a00, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956700, 0xc05cdb1260, 0xa613, 0x0, 0x0, 0x0, 0xc05cdb1260, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123ce0, 0xb9ef60, 0xc05ce9add0, 0xc05cc9e2d0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05ce9add0, 0xc05cc9e2d0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05ccce300, 0xb9f7e0, 0xc05cbd67c0)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:18:05 [server.go:2315] [HTTP] http: panic serving [::1]:53358: can't find templatefile in the path:error.tpl
+goroutine 67 [running]:
+net/http.(*conn).serve.func1(0xc05ce98680)
+	D:/go/src/net/http/server.go:1491 +0x131
+panic(0x8adf60, 0xc05cdbdcb0)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.ExecuteTemplate(0xb98be0, 0xc05cec42a0, 0x9609bf, 0x9, 0x8d1f40, 0xc05cebe9f0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/template.go:64 +0x31f
+github.com/astaxie/beego.(*Controller).renderTemplate(0xc05cdb17a0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, ...)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:249 +0x353
+github.com/astaxie/beego.(*Controller).RenderBytes(0xc05cdb17a0, 0x95b6b6, 0x4, 0xc05ca02de0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:200 +0x67
+github.com/astaxie/beego.(*Controller).Render(0xc05cdb17a0, 0x0, 0x0)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:184 +0x45
+github.com/astaxie/beego.executeError(0xc05c627cb0, 0xc05cb85b00, 0x1fb)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:444 +0x32e
+github.com/astaxie/beego.exception(0xc05cdbd730, 0x3, 0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/error.go:408 +0x1ee
+github.com/astaxie/beego.recoverPanic(0xc05cb85b00)
+	D:/code/gocode/src/github.com/astaxie/beego/config.go:162 +0x7e5
+panic(0x8adf60, 0xc05cdbd720)
+	D:/go/src/runtime/panic.go:458 +0x251
+github.com/astaxie/beego.(*Controller).CustomAbort(0xc05cdb16c0, 0x1fb, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:271 +0xc5
+github.com/astaxie/beego.(*Controller).Abort(0xc05cdb16c0, 0x95aa39, 0x3)
+	D:/code/gocode/src/github.com/astaxie/beego/controller.go:263 +0x79
+httpdns/controllers.(*LoginController).Registerpost(0xc05cdb16c0)
+	D:/code/gocode/src/httpdns/controllers/login.go:79 +0x2c2
+reflect.Value.call(0x956700, 0xc05cdb16c0, 0xa613, 0x95b6b6, 0x4, 0x0, 0x0, 0x0, 0xc042068a60, 0x13, ...)
+	D:/go/src/reflect/value.go:434 +0x5cf
+reflect.Value.Call(0x956700, 0xc05cdb16c0, 0xa613, 0x0, 0x0, 0x0, 0xc05cdb16c0, 0xa613, 0x0)
+	D:/go/src/reflect/value.go:302 +0xab
+github.com/astaxie/beego.(*ControllerRegister).ServeHTTP(0xc042123ce0, 0xb9ef60, 0xc05cec32b0, 0xc05cc9e3c0)
+	D:/code/gocode/src/github.com/astaxie/beego/router.go:802 +0x1e6c
+net/http.serverHandler.ServeHTTP(0xc042078300, 0xb9ef60, 0xc05cec32b0, 0xc05cc9e3c0)
+	D:/go/src/net/http/server.go:2202 +0x84
+net/http.(*conn).serve(0xc05ce98680, 0xb9f7e0, 0xc05cbd6980)
+	D:/go/src/net/http/server.go:1579 +0x4be
+created by net/http.(*Server).Serve
+	D:/go/src/net/http/server.go:2293 +0x454
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] the request url is  /user/register
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:logincontroller/registerpost.tpl
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:809
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 16:19:28 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 16:23:03 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 16:23:10 [I] [login.go:82] user resgister success 
+2017/05/04 16:23:31 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 16:23:50 [I] [login.go:41] user: t is ok 
+2017/05/08 16:34:26 [I] [login.go:41] user: yangshuo is ok 

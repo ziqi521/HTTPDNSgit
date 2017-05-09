@@ -1,0 +1,261 @@
+2017/05/04 17:15:53 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:184
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:15:56 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:184
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:17:23 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:184
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:18:25 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:20:45 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:20:54 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:20:59 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:23:44 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:24:00 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:24:01 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:24:26 [I] [api.go:255] /api/getalldomain requested... 
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:24:40 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:25:55 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:25:57 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:26:09 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:26:09 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:26:10 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] the request url is  /api/getid
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] Handler crashed with error runtime error: index out of range
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:27
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/code/gocode/src/httpdns/controllers/api.go:186
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:434
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/reflect/value.go:302
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:802
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:26:22 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:29:40 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:29:42 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:29:42 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:29:42 [I] [api.go:220] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:29:49 [I] [api.go:212] /api/getid from  get: wrr 
+2017/05/04 17:29:55 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:29:58 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:29:58 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:30:11 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:30:17 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:30:17 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:30:18 [I] [api.go:212] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:32:52 [I] [api.go:216] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:32:53 [I] [api.go:216] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:33:01 [I] [api.go:216] /api/getid from  get: wrr 
+2017/05/04 17:33:05 [I] [api.go:216] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:33:07 [I] [api.go:216] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:33:08 [I] [api.go:216] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:35:05 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:35:16 [I] [api.go:213] /api/getid from  get: wrr 
+2017/05/04 17:35:23 [I] [api.go:213] /api/getid from  get: wrr 
+2017/05/04 17:35:26 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:35:28 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.mi.com wrr 
+2017/05/04 17:35:36 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:36:57 [I] [api.go:221] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:37:00 [I] [api.go:221] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:37:09 [I] [api.go:213] /api/getid from  get: wrr 
+2017/05/04 17:37:20 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:40:12 [I] [api.go:221] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:40:18 [I] [api.go:213] /api/getid from  get: wrr 
+2017/05/04 17:40:20 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:40:23 [I] [api.go:213] /api/getid from 36.47.142.225 get:www.baidu.com wrr 
+2017/05/04 17:42:31 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:42:32 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:42:32 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:42:32 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:42:36 [I] [api.go:211] /api/getid from  get: wrr 
+2017/05/04 17:42:42 [I] [api.go:211] /api/getid from  get: wrr 
+2017/05/04 17:42:46 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:42:49 [I] [api.go:219] /api/getid from 36.47.142.225 get:www.baidu.com geographical position 
+2017/05/04 17:46:00 [I] [api.go:211] /api/getid from  get: wrr 
+2017/05/04 17:48:18 [I] [api.go:211] /api/getid from  get: wrr 
+2017/05/04 17:54:50 [I] [api.go:211] /api/getid from  get: wrr 
+2017/05/04 17:59:03 [I] [api.go:254] /api/getalldomain requested... 
+2017/05/04 17:59:24 [I] [api.go:254] /api/getalldomain requested... 
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] the request url is  /favicon.ico
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:error.tpl
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:444
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:408
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:703
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 17:59:28 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 17:59:29 [I] [login.go:41] user: yangshuo is ok 
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] the request url is  /api/getalldomain/www.baidu.com
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] Handler crashed with error can't find templatefile in the path:error.tpl
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:479
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/go/src/runtime/panic.go:458
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/template.go:64
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:249
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:200
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/controller.go:184
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:444
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/error.go:408
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/code/gocode/src/github.com/astaxie/beego/router.go:703
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:2202
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/go/src/net/http/server.go:1579
+2017/05/04 18:01:12 [C] [asm_amd64.s:479] D:/go/src/runtime/asm_amd64.s:2086
+2017/05/04 18:02:18 [I] [api.go:287] /api/getdomain/www.baidu.comrequested 
