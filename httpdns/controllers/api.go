@@ -156,6 +156,7 @@ func next_weight(we Weightcount) (ip string) {
 
 // @router /getid [post]
 func (this *ApiController) Getid() {
+	untils.Statices_tolog()
 	var (
 		ipinfo    Ipinfo
 		user      User
@@ -285,4 +286,15 @@ func (this *ApiController) Getonedomain() {
 	}
 
 	beego.Info("/api/getdomain/" + domainname + "requested")
+}
+
+// @router /getstatices [get]
+func (this *ApiController) Get_Statices() {
+	data, err := untils.Get_Statices()
+	if err == nil {
+		this.Data["json"] = &data
+		this.ServeJSON()
+	} else {
+
+	}
 }

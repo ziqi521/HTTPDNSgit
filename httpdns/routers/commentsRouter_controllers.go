@@ -90,6 +90,13 @@ func init() {
 			AllowHTTPMethods: []string{"get"},
 			Params: nil})
 
+	beego.GlobalControllerRouter["httpdns/controllers:ApiController"] = append(beego.GlobalControllerRouter["httpdns/controllers:ApiController"],
+		beego.ControllerComments{
+			Method: "Get_Statices",
+			Router: `/getstatices`,
+			AllowHTTPMethods: []string{"get"},
+			Params: nil})
+
 	beego.GlobalControllerRouter["httpdns/controllers:LoginController"] = append(beego.GlobalControllerRouter["httpdns/controllers:LoginController"],
 		beego.ControllerComments{
 			Method: "Registerget",

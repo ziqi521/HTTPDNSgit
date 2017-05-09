@@ -8,6 +8,7 @@ import (
 	_ "github.com/mysql"
 	"httpdns/controllers"
 	_ "httpdns/routers"
+	_ "httpdns/untils"
 	"httpdns/untils/dataopt"
 	"httpdns/untils/encryptor"
 )
